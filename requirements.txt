@@ -1,0 +1,7 @@
+langchain
+chainlit
+pandas
+langchain-openai
+pandasql
+scikit-learn
+langchain-community
